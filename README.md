@@ -1,2 +1,3 @@
-# game
+# Gatherer’s Realm
+
 Gatherer’s Realm is a 2D top-down MMORPG web-based game that immerses players in a world of skill mastery and progression. Focused on non-combat activities, players can train a variety of gathering skills such as mining and woodcutting, alongside production skills like smithing and fletching. As players level up their skills, they unlock new content, tools, and areas to explore. The game draws inspiration from the classic mechanics of old school RuneScape, offering a nostalgic yet fresh experience. Whether you’re a seasoned player or new to the genre, Gatherer’s Realm provides a rich and engaging environment to hone your skills and achieve mastery.
